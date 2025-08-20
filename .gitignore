@@ -1,0 +1,13 @@
+build/
+**/CMakeFiles/
+**/CMakeCache.txt
+**/cmake_install.cmake
+**/compile_commands.json
+**/*.elf
+**/*.uf2
+**/*.map
+**/*.bin
+**/*.hex
+.DS_Store
+
+
